@@ -1,0 +1,45 @@
+{
+	"id": "c3f57577-9c74-ed11-9f60-000d3a6554d3",
+	"createdAt": "2022-12-05T12:58:09.640Z",
+	"createdBy": "lloyd.trevarthen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/lloyd-neptune/ApplicationTagVersionManagement"
+	},
+	"name": "ApplicationTagVersionManagement",
+	"description": null,
+	"ver": "22.12.5.133",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "efa856dc-b8d2-ec11-997e-0050f2c33e69",
+			"application": "dennistesttable_lloyd",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": []
+}
