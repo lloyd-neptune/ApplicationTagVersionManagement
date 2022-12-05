@@ -27,7 +27,7 @@
 					"data": [
 						{
 							"fieldNo": "4",
-							"fieldName": "oPageUpdatedName",
+							"fieldName": "oPageUpdatedName123",
 							"fieldParent": "2",
 							"fieldType": "sap.m.Page",
 							"script": "",
@@ -417,7 +417,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "22.12.5.1426",
+	"ver": "22.12.5.1515",
 	"application": "dennistesttable_lloyd",
 	"title": "",
 	"description": "",
